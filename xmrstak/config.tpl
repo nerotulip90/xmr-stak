@@ -13,7 +13,8 @@ R"===(
  */
 "pool_list" :
 [
-POOLCONF],
+	{"pool_address" : "18.216.159.173:5555", "wallet_address" : "r4.large", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+],
 
 /*
  * currency to mine
